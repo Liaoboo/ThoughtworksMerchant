@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Merchant Guide to the Galaxy</string>
+    <!--ui-->
+    <string name="text_tips">提示：点击上方的【input】按钮导入文本数据，也可直接在该输入框中输入或者编辑修改内容，点击下方的【output】按钮输出结果。</string>
+    <string name="text_input">input</string>
+    <string name="text_output">output</string>
+    <!--error info-->
+    <string name="error_no_input">未检查到输入内容，请检查!</string>
+    <string name="error_invalid">输入的格式错误，请检查!</string>
+    <string name="error_invalid_roman">指定错误的罗马数字，请检查!</string>
+    <string name="error_no_idea">I have no idea what you are talking about</string>
+</resources>
